@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Rafael;
 - 💞️ I love programming logic, then I'm interessed in implement the maximum number of tools that facilitate the development of applications, through reusable libraries;
 - 🌱 I’m currently learning TypeScript and Python;
-- 👀 I’m looking to collaborate on reusable libraries;
+- 👀 I’m looking to collaborate on reusable libraries to frameworks;
 - 📫 To reach me write to rafaelplaurindo@gmail.com.
